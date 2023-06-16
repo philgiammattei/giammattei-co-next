@@ -1,6 +1,7 @@
 ---
 title: Minesweeper
 published: true
+favorite: true
 datePublished: 09/28/2019
 author: Phil Giammattei
 authorPhoto: /img/profile.jpg
