@@ -1,8 +1,5 @@
-phil's web site
-a web site, for phil
+giammattei.co
 
-built in next.js from a very nice template
+A website built in Next.js
 
-a perpetual work in progress
-
-this is a place of honor
+Based on [devii](https://devii.dev/)

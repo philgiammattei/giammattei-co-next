@@ -11,7 +11,7 @@ canonicalUrl: https://giammattei.co/blog/giammattei-2
 
 Welcome to the new and improved giammattei.co! While it may look and feel much the same as your last visit (if you were one of the 10 people to visit the site in its first year of existence), under the hood, everything is different. This site is now a single-page Angular app, and I thought it'd be fun to explain why I took the time to take a weed whacker to my code, and what gives the "modern" frameworks that now dominate the web their edge.
 
-I made a very deliberate choice when [building this site out originally](./giammattei), which was to do it old-school. No fancy frameworks, no abstract magic, no templates. The structure, content and styles of the entire site were hand-coded, by me, line by line.
+I made a very deliberate choice when [building this site out originally](../giammattei), which was to do it old-school. No fancy frameworks, no abstract magic, no templates. The structure, content and styles of the entire site were hand-coded, by me, line by line.
 
 Just like the websites of old, my project directory had a collection of HTML files, each corresponding to a page on the site, a global CSS file that dictated the styles of all the page elements, and a collection of image assets. I used JavaScript for one purpose: showing and hiding the hamburger menu in mobile view.
 
