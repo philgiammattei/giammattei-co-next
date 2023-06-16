@@ -2,6 +2,7 @@
 title: giammattei.co, Part 3
 subtitle: The Next chapter begins
 published: true
+favorite: true
 datePublished: 06/16/2023
 author: Phil Giammattei
 authorPhoto: /img/profile.jpg
