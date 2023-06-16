@@ -13,7 +13,7 @@ const Home = (props: {
   return (
     <div className="content">
       <Head>
-        <title>phil's web site</title>
+        <title>Phil Giammattei</title>
 
         <link
           rel="apple-touch-icon"
