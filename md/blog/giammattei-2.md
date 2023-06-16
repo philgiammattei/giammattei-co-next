@@ -60,7 +60,7 @@ Extending this concept further, there's room for improvement in the content itse
 
 This produced a nice set of elements describing my various projects that looked like this:
 
-![old project elements](assets/images/old-projects.png)
+![old project elements](/img/old-projects.png)
 
 This looks cool, but it's all done by hand. Which means that if I add a project to my site, I need to write the code to get it to show up in this list. That's more friction than I want, especially when I can use JavaScript to make it happen automatically.
 
