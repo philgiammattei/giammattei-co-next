@@ -7,7 +7,7 @@ canonicalUrl: https://giammattei.co/about
 
 Thanks for stopping by!  My name's Phil and I'm a software engineer, among other things.
 
-I spent the first 10 years of my career doing non-technical things for technical companies.  When given the opportunity to work on the code of a Shopify site, I learned the HTML, CSS, and JQuery needed to get the job done.  This lit a fire that culminated in attending a coding boot camp and a pivot to doing software full-time in 2019.
+I spent the first 10 years of my career doing non-technical things for technical companies.  I stumbled into a production assistant role at [KerfCase](https://kerfcase.com) that makes and sells wood phone cases, and worked my way up to running operations for the company.  When given the opportunity to work on the code of Kerf's Shopify site, I learned the HTML, CSS, and JQuery needed to get the job done.  This lit a fire that culminated in attending a coding boot camp and a pivot to doing software full-time in 2019.
 
 I have worked on a team of teams making user interfaces for enterprise banking software, embedded on legacy teams to provide guidance on modern coding practices, rapidly prototyped new product ideas at a fast-paced startup, and designed systems that maximize efficiency and developer experience.  Currently I am at PNC, managing Continuous Deployment capabilities in their DevOps department.
 
