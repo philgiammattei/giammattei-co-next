@@ -2,10 +2,10 @@ import React from 'react';
 
 export const Footer: React.FC = () => (
   <div className="footer">
-    <a href="https://twitter.com/phil__ectronic">
+    <a href="https://twitter.com/philgiammattei">
       <img src="/img/twitter.svg" alt="Twitter" height="30" width="30" />
     </a>
-    <a rel="me" href="https://defcon.social/@phil__ectronic">
+    <a rel="me" href="https://defcon.social/@philgiammattei">
       <img src="/img/mastodon.svg" alt="Mastodon" height="30" width="30" />
     </a>
     <a href="/rss.xml">
