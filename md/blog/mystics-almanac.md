@@ -30,4 +30,4 @@ Finally, Gabe needed a way to input his instructions for the day.  The instructi
 
 Once this work was done, it was a simple matter of showing Gabe where in AirTable he could input his data, and the project was handed off.  It's been very cool to see my tool referenced in daily emails, and I hope that it's adding value to Gabe's readerbase.  If you want, you can check out the app [here!](https://www.themysticsalman.ac/)
 
-I had a lot of fun on this project, and would love to do something like it again!  If you have a great idea for a web app but don't know how to write the code to make it happen, hit me up!  Maybe we can make something cool together.
+I had a lot of fun on this project, and would love to do something like it again.  If you have a great idea for a web app but don't know how to write the code to make it happen, hit me up!  Maybe we can make something cool together.
