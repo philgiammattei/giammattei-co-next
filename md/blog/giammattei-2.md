@@ -125,4 +125,4 @@ Using the [ngx-markdown](https://www.npmjs.com/package/ngx-markdown) library, I 
 
 ### Going Forward
 
-I'm still picking up the pieces on the other side of my migration, but I'm pleased with my new workflow and hope to take advantage of the fact that it's now much easier for me to post here. Let me know if you have any questions about the update, if you notice any bugs, or if you have any ideas for future posts!
+Im still picking up the pieces on the other side of my migration, but I'm pleased with my new workflow and hope to take advantage of the fact that it's now much easier for me to post here. Let me know if you have any questions about the update, if you notice any bugs, or if you have any ideas for future posts!
