@@ -45,4 +45,4 @@ for i in 1...100 {
 }
 ```
 
-I feel like I'm going to have to snap my brain to get used to this kind of thinking (the same way I did when learning higher-order functions in JavaScript), but I can imagine that there's lots of ways to get some elegant control flow with these tools!
+I feel like I'm going to have to snap my brain to get used to this kind of thinking (the same way I did when learning higher-order functions in JavaScript), but I can imagine that there's lots of ways to get some elegant control flow with these tools! 
